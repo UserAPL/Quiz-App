@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+*{
+    margin: 0;
+}
+
+body{
+    height:100vh;
+    background-image: linear-gradient(#e73ea68f,#47c2ef);
+    font-family: 'poppins';
+}
